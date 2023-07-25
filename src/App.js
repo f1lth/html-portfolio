@@ -5,7 +5,7 @@ function App() {
   return (
     <div className='App'>
       <h2>f1lth</h2>
-      <h3><a href="https://github.com">GitHub</a></h3>
+      <h3><a href="https://github.com/f1lth">GitHub</a></h3>
       
       <p> Software Eng. currently interested in artificial intelligence, trading, and blockchain. Working at Minerva-- my startup</p>
       

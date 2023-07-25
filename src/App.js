@@ -23,7 +23,7 @@ function App() {
         </ul>
         </div>
         <div className='content'>
-          <h2>Education</h2>
+          <h2>Education </h2>
           <ul>
             <li>Queen's University - B.Comp (AI) - Ongoing</li>
           </ul>

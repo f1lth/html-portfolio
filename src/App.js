@@ -7,7 +7,7 @@ function App() {
       <h2>f1lth</h2>
       <h3><a href="https://github.com">GitHub</a></h3>
       
-      <p> Software Eng. currently interested in artificial intelligence, trading, and blockchain. Working at a Minerva -- health startup</p>
+      <p> Software Eng. currently interested in artificial intelligence, trading, and blockchain. Working at Minerva-- my startup</p>
       
       <div className='content'>
         <h2>Work</h2>

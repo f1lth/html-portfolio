@@ -39,3 +39,11 @@ li {
 .content {
   margin-bottom: 20px;
 }
+
+.container {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+}

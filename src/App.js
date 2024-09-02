@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='App'>
       <AsciiComponent/>
-      <p> <a href="https://github.com/f1lth">swe</a> interested in ai, aesthetics, architecture, trading</p>
+      <p> <a href="https://github.com/f1lth">swe</a> interested in ai, aesthetics, architecture, trading currently @ stealth</p>
       <div className='content'>
         <h2>Work</h2>
         <div className='container'>
@@ -23,7 +23,7 @@ function App() {
         <div className='content'>
           <h2>Education </h2>
           <ul>
-            <li>Queen's University, Kingston, Ontario - Bsc. Computer Science</li>
+            <li> BsC. Computer Science - Queen's University</li>
           </ul>
         </div>
         <div className='content'>

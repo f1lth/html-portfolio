@@ -10,7 +10,7 @@ function AsciiComponent() {
         animationLoop: true,
         animationSpeed: 8,
         font: caligraphy2,
-        text: ["F1lth"],
+        text: ["Filth"],
       });
     
       return <pre ref={asciiTextRef}></pre>;

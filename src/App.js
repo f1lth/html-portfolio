@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='App'>
       <AsciiComponent/>
-      <p> <a href="https://github.com/f1lth">swe</a> interested in ai, aesthetics, architecture, trading currently @ stealth</p>
+      <p> <a href="https://github.com/f1lth">swe</a> interested in ai, aesthetics, architecture, trading, currently @ stealth</p>
       <div className='content'>
         <h2>Work</h2>
         <div className='container'>

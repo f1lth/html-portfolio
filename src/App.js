@@ -11,7 +11,7 @@ function App() {
         <h2>Work</h2>
         <div className='container'>
           <ul> 
-          <li><a href="https://astrace-frontend-demo.vercel.app/search/">Minerva: </a> HIPPA compliant failed startup - simplify doctor's lives with ai document processing (raised CAD$4000)</li>
+          <li><a href="https://astrace-frontend-demo.vercel.app/search/">Minerva: </a> HIPAA compliant failed startup - simplify doctor's lives with ai document processing (raised CAD$4000)</li>
           <li><a href="https://icaps23.icaps-conference.org/program/tutorials/model/">LOCM: </a> model acquisition algorithm implementation, demo'd at ICAPS23' Prague</li>
           <li><a href="https://github.com/AI-Planning/macq"> macQ:  </a> from locm open source model acquisition library</li>
           <li><a href="https://supercart.ai/">supercart: </a>  built beta backend for ERC compliant swaps</li>
